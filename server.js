@@ -13,7 +13,7 @@ app.use(cors())
 
 
 app.get("/", (req, res)=>{
-    res.send("FlimFair Website Server")
+    res.send("Address Website Server")
 });
 
 
